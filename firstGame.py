@@ -44,3 +44,6 @@ while running:
     #clock.tick(60)  # limits FPS to 60
 
 pygame.quit()
+
+# go to O'reilly 
+# the art of doing: video game creation with python and pygame by michael eramo
